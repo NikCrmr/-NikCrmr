@@ -1,6 +1,6 @@
 #  :hibiscus: Welcome to Niko's GitHub! :cherry_blossom:
 
-here you will find my first steps as learning and greenhorn web-developer. 
+here you will find my first steps as learning and greenhorn web-developer.
 
 
 Me, Niko loves art, nature...
@@ -20,7 +20,6 @@ Enjoy this site even if its still mostly empty and enjoy life and yourself!
 
 [![pic niko small](https://github.com/NikCrmr/-NikCrmr/assets/148204632/e5a11f0d-873a-4651-b5e3-740987b9c832 "Bild von Niko")](https://www.instagram.com/puijolove/)
 
-https://www.instagram.com/puijolove/
-
+<a href="https://www.instagram.com/puijolove/"><img src="https://github.com/NikCrmr/-NikCrmr/assets/148204632/768b8944-2ad4-414f-bf63-00991caed358" alt="Instagram" style="width:42px;height:42px;"></a>
 
 
