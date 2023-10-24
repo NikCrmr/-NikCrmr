@@ -1,14 +1,14 @@
-# Welcome to my Niko's Page!
+#  :hibiscus: Welcome to Niko's GitHub! :cherry_blossom:
 
 here you will find my first steps as learning and greenhorn web-developer. 
 
 
 Me, Niko loves art, nature...
 
-- gardening
-- meditation
-- herblism
-- psychology..
+- :seedling: gardening
+- :pray: meditation  
+- :herb: herblism
+- :thought_balloon: psychology..
 
   .. right now I just have been starting with a Web Development part-time training at NeueFische.
 Hopefully I can find a new career path or get some inspiration for life in general.
