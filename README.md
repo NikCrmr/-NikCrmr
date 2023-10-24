@@ -23,3 +23,8 @@ Enjoy this site even if its still mostly empty and enjoy life and yourself!
 <a href="https://www.instagram.com/puijolove/"><img src="https://github.com/NikCrmr/-NikCrmr/assets/148204632/768b8944-2ad4-414f-bf63-00991caed358" alt="Instagram" style="width:42px;height:42px;"></a>
 
 
+<div>
+  <a href="Instagram">
+    <img src="https://github.com/NikCrmr/-NikCrmr/assets/148204632/768b8944-2ad4-414f-bf63-00991caed358" alt="Youtube Badge"/>
+  </a>
+  </div>
