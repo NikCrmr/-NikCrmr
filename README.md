@@ -24,7 +24,7 @@ Enjoy this site even if its still mostly empty and enjoy life and yourself!
 
 
 <div>
-  <a href="Instagram">
-    <img src="https://github.com/NikCrmr/-NikCrmr/assets/148204632/768b8944-2ad4-414f-bf63-00991caed358" alt="Youtube Badge"/>
+  <a href="https://www.instagram.com/puijolove/">
+    <img src="https://github.com/NikCrmr/-NikCrmr/assets/148204632/768b8944-2ad4-414f-bf63-00991caed358" width="50px" alt="!!!"/>
   </a>
   </div>
