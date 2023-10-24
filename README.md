@@ -1,6 +1,8 @@
 # Welcome to my Niko's Page!
 
 here you will find my first steps as learning and greenhorn web-developer. 
+
+
 Me, Niko loves art, nature...
 
 - gardening
