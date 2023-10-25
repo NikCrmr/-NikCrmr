@@ -1,9 +1,8 @@
 #  :hibiscus: Welcome to Niko's GitHub! :cherry_blossom:
 
-here you will find my first steps as learning and greenhorn web-developer.
+here starts my journey as a learning-greenhorn web-developer.
 
-
-Me, Niko loves art, nature...
+beside that, me, Niko loves art, nature...
 
 - :seedling: gardening
 - :pray: meditation  
