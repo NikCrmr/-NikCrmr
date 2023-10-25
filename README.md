@@ -7,7 +7,6 @@ beside that, me, Niko loves art, nature...
 - :seedling: gardening
 - :pray: meditation  
 - :herb: herblism
-- :thought_balloon: psychology..
 
   .. right now I just have been starting with a Web Development part-time training at NeueFische.
 Hopefully I can find a new career path or get some inspiration for life in general.
